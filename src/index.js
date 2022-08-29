@@ -19,7 +19,7 @@ root.render(
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="concept" element={<Concept />} />
-      </Routes>
+    </Routes>
     <Footer />
   </BrowserRouter>
   </React.StrictMode>
